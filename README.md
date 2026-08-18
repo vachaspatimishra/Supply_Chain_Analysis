@@ -77,7 +77,6 @@ The model demonstrates the potential to identify high-risk shipments before they
 7. Combine delivery-risk predictions with profitability when selecting shipping options.
 8. Use more realistic delivery promises based on historical operational performance.
 
-```
 
 **If you found this project useful, feel free to star the repository. 😊**
 
