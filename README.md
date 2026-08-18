@@ -78,6 +78,7 @@ The model demonstrates the potential to identify high-risk shipments before they
 8. Use more realistic delivery promises based on historical operational performance.
 
 
-**If you found this project useful, feel free to star the repository. 😊**
+
+**If you found this project useful, feel free to star the repository. ⭐**
 
 **Vachaspati Mishra**
