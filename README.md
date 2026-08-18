@@ -21,7 +21,7 @@ The analysis covers:
 * Root-cause analysis
 * Late-delivery prediction using Random Forest
 
-## 🛠️ Tools & Technologies
+## 🛠️ Tools & Libraries
 
 * Python
 * Pandas
